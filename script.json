@@ -1,0 +1,12 @@
+{
+  "name": "网页转 Markdown",
+  "icon": "doc.richtext",
+  "color": "rgba(52, 120, 246, 1)",
+  "version": "1.1.0",
+  "description": "从网页提取正文并转换为 Markdown，支持 Safari 分享菜单、剪贴板和文件保存。",
+  "localizedNames": { "zh": "网页转 Markdown", "en": "Web to Markdown" },
+  "localizedDescriptions": { "zh": "从网页提取正文并转换为 Markdown，支持 Safari 分享菜单、剪贴板和文件保存。", "en": "Extract article content and convert web pages to Markdown." },
+  "entry": "index.tsx",
+  "runInApp": false,
+  "intentInputTypes": ["URLs", "Texts"]
+}
